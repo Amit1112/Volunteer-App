@@ -1,0 +1,10 @@
+body {
+            position: relative;
+    }
+img {
+    width:1400px;
+    height:300px;
+}
+.white{
+    background-color: white;
+}
