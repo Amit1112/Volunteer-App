@@ -28,10 +28,14 @@ An application for all the committed people, young or old, to come and volunteer
 
 ## License
 
-none
+MIT
 
 ## Acknowledgments
 
 * Angular Material
 * AngularJS
 * Bootstrap
+
+## Update
+
+* App is old and technologies have not been upgraded
